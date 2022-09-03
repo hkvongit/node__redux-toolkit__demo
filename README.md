@@ -1,5 +1,7 @@
 # Learning Redux toolkit (RTK)
 
+Learning tutorial: https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3
+
 Redux toolkit have some conventions to follow.
 
 - All the reducers and actions for a single feature should be written in a single file.
