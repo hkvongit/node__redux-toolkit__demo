@@ -6,7 +6,7 @@ const icecreamActions =
 console.log("Initial State of the store", store.getState());
 
 const unsubscribe = store.subscribe(() => {
-  console.log("State updates : ", store.getState());
+  // console.log("state updates :  ", store.getState());
 });
 
 // Dispatching some actions
