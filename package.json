@@ -1,0 +1,14 @@
+{
+  "name": "redux-toolkit-learning",
+  "version": "1.0.0",
+  "description": "Learning redux toolkit from youtube tutorial: https://www.youtube.com/watch?v=edkBAL27Y9k&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3&index=17 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hari-anith",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5"
+  }
+}
